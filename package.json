@@ -1,0 +1,17 @@
+{
+  "name": "@pagofail/pagofacil-sdk-javascript-examples",
+  "version": "1.0.0",
+  "description": "Lista de ejemplos en javascript/nodejs para el API de Pago Fácil",
+  "dependencies": {
+    "@pagofacil/api_pago_facil": "^2.1.4",
+    "@pagofacil/sdk-apis-javascript-signature": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Tala Sánchez",
+  "license": "ISC"
+}
